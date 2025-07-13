@@ -8,15 +8,15 @@ This is an overview of **Remembrance**, a video game built using purely Luau.
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/homepage.png)
-![Dashboard](screenshots/dashboard.png)
-*(Add as many as needed to illustrate features)*
+![Login](loginMenu.png)
+![Character Creation](characterCreation.png)
+![Short Gameplay](https://github.com/KingToxic/remembrance-overview/blob/main/upload.mp4)
 
 ---
 
 ## 📝 Project Summary
 
-**Project Name** is a online RPG that includes features such as:
+**Project Name** is planned to be a online RPG that includes features such as:
 
 - ✅ PvP Combat
 - 📈 Custom 3D modeling
@@ -27,10 +27,10 @@ This is an overview of **Remembrance**, a video game built using purely Luau.
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Flask (Python)
-- **Database:** PostgreSQL
-- **Hosting:** Vercel + Railway
+- **Full-Stack:** Luau
+
+- Additional Frameworks:
+* SmartBones, Packets
 
 ---
 
@@ -42,13 +42,12 @@ This project was built to attempt to seemlessly platform a combat RPG that is ha
 
 ## 📅 Timeline
 
-- Started: Month Year
-- Status: [Complete / In Progress / Ongoing Maintenance]
+- Started: Jan 2025
+- Status: [In Progress]
 
 ---
 
 ## 🙋‍♂️ Author
 
-- [Your Name](https://github.com/yourusername)
-- [LinkedIn Profile](https://linkedin.com/in/your-link)
+- [Dev](https://github.com/KingToxic)
 
