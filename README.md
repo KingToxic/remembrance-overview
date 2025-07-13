@@ -49,5 +49,5 @@ This project was built to attempt to seemlessly platform a combat RPG that is ha
 
 ## 🙋‍♂️ Author
 
-- [Dev](https://github.com/KingToxic)
+- [Github Profile](https://github.com/KingToxic)
 
