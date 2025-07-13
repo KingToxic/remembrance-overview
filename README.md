@@ -1,6 +1,6 @@
 # 🌐 Project Name Overview
 
-This is an overview of **Remembrance**, a video game built using purely Luau.
+This is an overview of **Remembrance**, a game built using purely Luau. All gameplay visuals created by author, and a majority of UI visuals.
 
 > 🚀 **Live site:** [Roblox Page:](https://www.roblox.com/games/131450869711405/)
 
