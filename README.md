@@ -1,4 +1,4 @@
-# 🌐 Project Name Overview
+# 🌐 Remembrance Overview
 
 This is an overview of **Remembrance**, a game built using purely Luau. All gameplay visuals created by author, and a majority of UI visuals.
 
@@ -16,7 +16,7 @@ This is an overview of **Remembrance**, a game built using purely Luau. All game
 
 ## 📝 Project Summary
 
-**Project Name** is planned to be a online RPG that includes features such as:
+**Remembrancee** is planned to be a online RPG that includes features such as:
 
 - ✅ PvP Combat
 - 📈 Custom 3D modeling
