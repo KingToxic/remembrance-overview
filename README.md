@@ -14,7 +14,7 @@ This is an overview of **Remembrance** a story-driven permadeath RPG, based on t
 
 ## Feature Summary
 
-![Development Feature & Systems Tracker](remmembrance-status.png)
+![Development Feature & Systems Tracker](remembrance-status.png)
 
 ---
 
