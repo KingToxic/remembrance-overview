@@ -1,53 +1,26 @@
-# 🌐 Remembrance Overview
+<div align="center">
 
-This is an overview of **Remembrance**, a game built using purely Luau. All gameplay visuals created by author, and a majority of UI visuals.
+# [Remembrance] - Passion Project
 
-> 🚀 **Live site:** [Roblox Page:](https://www.roblox.com/games/131450869711405/)
-
----
-
-## 📸 Screenshots
-
-![Login](loginMenu.png)
-![Character Creation](characterCreation.png)
-![Short Gameplay](https://github.com/KingToxic/remembrance-overview/blob/main/upload.mp4)
+This is an overview of **Remembrance** a story-driven permadeath RPG, based on the web novel Shadow Slave. 
 
 ---
 
-## 📝 Project Summary
+## Gameplay Preview
 
-**Remembrancee** is planned to be a online RPG that includes features such as:
-
-- ✅ PvP Combat
-- 📈 Custom 3D modeling
-- 🔐 Animation Engine
-- 
+[![YouTube Video](https://img.youtube.com/vi/k5qvQXMVV5M/0.jpg)](https://www.youtube.com/watch?v=k5qvQXMVV5M)
 
 ---
 
-## 🛠 Tech Stack
+## Feature Summary
 
-- **Full-Stack:** Luau
-
-- Additional Frameworks:
-* SmartBones, Packets
+![Development Feature & Systems Tracker](remmembrance-status.png)
 
 ---
 
-## 🎯 Purpose
+## Timeline
 
-This project was built to attempt to seemlessly platform a combat RPG that is hard to exploit on the client side.
+Started: Jan 2025
+Status: **In Progress**
 
----
-
-## 📅 Timeline
-
-- Started: Jan 2025
-- Status: [In Progress]
-
----
-
-## 🙋‍♂️ Author
-
-- [Github Profile](https://github.com/KingToxic)
-
+</div>
