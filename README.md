@@ -4,6 +4,8 @@
 
 This is an overview of **Remembrance** a story-driven permadeath RPG, based on the web novel Shadow Slave. 
 
+*Interested in reviewing the code? Please reach out.*
+
 ---
 
 ## Gameplay Preview
